@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
   name="wcmp",
-  version="1.0",
+  version="1.1",
   author="moshangsang24",
   author_email="liuyifan731@163.com",
   description="A simple message plus package for notification via wechat.",
