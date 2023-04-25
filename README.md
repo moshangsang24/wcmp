@@ -21,3 +21,7 @@ s=wcmp('XXXXXXX')
 s.send('messgaedf')
 ```
 
+## About the Token
+You need to get your personal token from [PushPlush](https://www.pushplus.plus/)
+
+
